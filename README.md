@@ -11,7 +11,7 @@ Everything about novel reader.
   - Calibre for example doesn’t seem to do the multi device access/sync well
   - Calibre doesn't have a reader app as far as I can tell on android or iphone
 - TaleBook
-  - 套壳改的 Calibre-Web ，三大缺点难以接受：Docker 镜像奇大，内存占用奇高，软件更新速度基本停更
+  - 套壳改的 Calibre-Web
 - https://github.com/benjaminjonard/koillection
 - Kavita
   - Only support epub & pdf
