@@ -10,6 +10,9 @@ Everything about novel reader.
   - It is a self hosted product and comes with the hassle of maintenance.
   - Calibre for example doesn’t seem to do the multi device access/sync well
   - Calibre doesn't have a reader app as far as I can tell on android or iphone
+- TaleBook
+  - 套壳改的 Calibre-Web ，三大缺点难以接受：Docker 镜像奇大，内存占用奇高，软件更新速度基本停更
+- https://github.com/benjaminjonard/koillection
 - Kavita
   - Only support epub & pdf
   - When scanning local files, some files may inexplicably be lost
@@ -23,6 +26,15 @@ Everything about novel reader.
   - No web client, only mac/linux/win client.
 - https://github.com/hectorqin/reader
   - The local book management function is very weak
+- https://github.com/bayang/jelu
+- https://github.com/altescy/bookshelf
+- Jellyfin + OPDS plugin
+- https://github.com/IgnisDa/ryot
+- https://github.com/alessandrojean/tankobon
+
+## Tool
+
+- https://github.com/dubyte/dir2opds
 
 ## Need-to-Pay Service
 
@@ -31,6 +43,10 @@ Everything about novel reader.
   - Not e-ink friendly
   - No offline support (at least on the web)
   - Unfortunately quite closed since it's provided by a company as a paid product ultimately
+
+## Online Service
+
+- https://www.librarything.com/
 
 ## PWA & Web APP
 
@@ -44,8 +60,18 @@ Everything about novel reader.
 - LNReader
 - [KyBook 3 Ebook Reader](https://apps.apple.com/us/app/kybook-3-ebook-reader/id1348198785)
 - KOReader
-- marvin
+- Marvin, Aldiko, or MapleRead
+
+## OPDS
 
 ## Software
 
-- Zotero 
+- Zotero
+- [Koodo Reader](https://github.com/koodo-reader/koodo-reader)
+- https://github.com/aooiuu/any-reader
+- https://github.com/mienaiyami/yomikiru
+- https://github.com/edrlab/thorium-reader
+
+## Browser Extension
+- https://github.com/Kenshin/simpread
+- https://github.com/ReadSomething/ReadSomething
