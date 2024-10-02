@@ -36,7 +36,7 @@ Everything about novel reader.
 
 - https://github.com/dubyte/dir2opds
 
-## Need-to-Pay Service
+## Paid Service
 
 - BookFusion
   - You have to upload your book to their server (or use calibre plugin).
